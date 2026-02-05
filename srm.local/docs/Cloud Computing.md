@@ -1,5 +1,6 @@
 B.TECH CSE - CLOUD COMPUTING
 Semester – I 
+ 
  21LEH102T Chinese
  21LEH103T French
  21LEH104T German  
@@ -21,6 +22,7 @@ Semester – I
 
 
  Semester – II 
+ 
  21LEH101T Communicative English 
  21MAB102T Advanced Calculus and Complex Analysis 
  21PYB102J Semiconductor Physics and Computational Methods 
